@@ -1,5 +1,5 @@
 package com.kennedy;
 
-public class Publisher {
+public class Receiver {
 
 }
